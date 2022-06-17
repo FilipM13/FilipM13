@@ -5,7 +5,7 @@ Hi, I'm Filip, Welcome to my GitHub page. I'm student of Biomedical Engineering 
 I started coding to automate repeating tasks and solve simple problems. 
 Now I'm getting professional experience and developing my skills further toward data analysis related professions.
 
-[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipM13&count_private=true&show_icons=true&theme=merko&bg_color=90,151600,3c5e00)](https://github.com/anuraghazra/github-readme-stats)
+[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipM13&count_private=true&show_icons=true&theme=merko&bg_color=90,151600,3c5e00&border_color=94B600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technology stack
 
@@ -14,7 +14,7 @@ Now I'm getting professional experience and developing my skills further toward 
 - :blossom: Linux
 - :seedling: MySQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipM13&show_icons=true&theme=merko&bg_color=90,151600,3c5e00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipM13&show_icons=true&theme=merko&bg_color=90,151600,3c5e00&border_color=94B600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Target Areas
 - :chart_with_upwards_trend: data visualization
