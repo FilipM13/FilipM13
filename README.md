@@ -1,35 +1,29 @@
 <h1 align="center">Filip Matejko</h1>
 <small>@FilipM13</small>
 
-Hi, I'm Filip, Welcome to my GitHub page. I'm student of Biomedical Engineering at Wroclaw University of Technology and self learned programmer.
-I started coding to automate repeating tasks and solve simple problems. 
-Now I'm getting professional experience and developing my skills further toward data analysis related professions.
+I am self-taught developer, specializing in creating tools for data manipulation and analysis. I enjoy tailoring and fine-tuning my solutions to meet requirements and exceed expectations. Eager to acquire new skills and put them to practice in professional manner, I take responsibility for the solutions I deliver. Now seeking an environment where I can further develop my career and see the impact of my contributions.
 
 [![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipM13&count_private=true&show_icons=true&theme=merko&bg_color=90,151600,3c5e00&border_color=94B600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technology stack
 
 - :deciduous_tree: Python
-- :blossom: Git
+- :deciduous_tree: Git
+- :blossom: GitLab CI/CD
+- :blossom: Frontend (Html, CSS, Js)
 - :blossom: Linux
-- :seedling: MySQL
+- :blossom: MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipM13&show_icons=true&theme=merko&bg_color=90,151600,3c5e00&border_color=94B600)](https://github.com/anuraghazra/github-readme-stats)
-
-## Target Areas
-- :chart_with_upwards_trend: data visualization
-- :books: data analysis
-- :microscope: data science
 
 ## Spare time
 
 - motorcycling
-- dancing
 - sports
-- drawing
+- reading
+- writing
 
 ### Get in touch
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FilipM13)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipm13)  
-[<img src='https://api.iconify.design/simple-icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/filipm13)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipm13)
