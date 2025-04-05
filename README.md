@@ -1,9 +1,10 @@
 <h1 align="center">Filip Matejko</h1>
-<small>@FilipM13</small>
 
 ## Technology stack
 
-- Python
+It's always fun to learn new skills and put them into practice.
+
+- Python [Pandas, Eel, Django, packaging]
 - CI/CD (GitLab and GitHub)
 - Git
 - Shell
