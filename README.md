@@ -4,7 +4,7 @@
 
 It's always fun to learn new skills and put them into practice.
 
-- Python [Pandas, Eel, Django, packaging]
+- Python
 - CI/CD (GitLab and GitHub)
 - Git
 - Shell
