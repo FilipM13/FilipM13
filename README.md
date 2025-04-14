@@ -19,8 +19,8 @@ It's always fun to learn new skills and put them into practice.
 
 ### Get in touch
 
-[<img src='https://img.icons8.com/?size=100&id=lkdAEYKTxRxu&format=png&color=12B886' alt='github' height='40'>](https://github.com/FilipM13)
+[<img src='https://img.icons8.com/?size=100&id=62856&format=png&color=12B886' alt='pypi' height='40'>](https://github.com/FilipM13)
 
-[<img src='https://img.icons8.com/?size=100&id=62856&format=png&color=12B886' alt='pypi' height='40'>](https://pypi.org/user/FilipM13/)
+[<img src='https://img.icons8.com/?size=100&id=lkdAEYKTxRxu&format=png&color=12B886' alt='github' height='40'>](https://pypi.org/user/FilipM13/)
 
 [<img src='https://img.icons8.com/?size=100&id=8808&format=png&color=12B886' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipm13)
