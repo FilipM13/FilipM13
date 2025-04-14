@@ -9,6 +9,7 @@ It's always fun to learn new skills and put them into practice.
 - Git
 - Shell
 - Azure
+- Docker
 - SQL
 - Html, CSS, Js
 
@@ -18,8 +19,8 @@ It's always fun to learn new skills and put them into practice.
 
 ### Get in touch
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FilipM13)
+[<img src='https://img.icons8.com/?size=100&id=lkdAEYKTxRxu&format=png&color=12B886' alt='github' height='40'>](https://github.com/FilipM13)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@14.12.0/icons/pypi.svg' alt='pypi' height='40'>](https://pypi.org/user/FilipM13/)
+[<img src='https://img.icons8.com/?size=100&id=62856&format=png&color=12B886' alt='pypi' height='40'>](https://pypi.org/user/FilipM13/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipm13)
+[<img src='https://img.icons8.com/?size=100&id=8808&format=png&color=12B886' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipm13)
