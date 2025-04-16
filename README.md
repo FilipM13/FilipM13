@@ -2,8 +2,6 @@
 
 ## Technology stack
 
-It's always fun to learn new skills and put them into practice.
-
 - Python
 - CI/CD (GitLab and GitHub)
 - Git
